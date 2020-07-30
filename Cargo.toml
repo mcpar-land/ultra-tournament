@@ -3,6 +3,13 @@ name = "ultra_tournament"
 version = "0.1.0"
 authors = ["mcpar-land"]
 edition = "2018"
+license = "MIT OR Apache-2.0"
+description = "Library for running single-elimination tournament brackets."
+homepage = "https://github.com/mcpar-land/ultra-tournament"
+documentation = "https://docs.rs/ultra-tournament"
+repository = "https://github.com/mcpar-land/ultra-tournament"
+readme = "README.md"
+
 
 [dependencies]
 specs = "0.16.1"
