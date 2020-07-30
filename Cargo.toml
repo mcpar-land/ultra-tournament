@@ -9,6 +9,10 @@ homepage = "https://github.com/mcpar-land/ultra-tournament"
 documentation = "https://docs.rs/ultra-tournament"
 repository = "https://github.com/mcpar-land/ultra-tournament"
 readme = "README.md"
+exclude = [
+	"docs.sh",
+	".vscode/*"
+]
 
 
 [dependencies]
